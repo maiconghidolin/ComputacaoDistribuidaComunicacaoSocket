@@ -1,0 +1,20 @@
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.exe.config
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.pdb
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.TCPServidor.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.Resources.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.vbproj.GenerateResource.Cache
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.exe.config
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\bin\Release\TCPServidor.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.TCPServidor.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.Resources.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.vbproj.GenerateResource.Cache

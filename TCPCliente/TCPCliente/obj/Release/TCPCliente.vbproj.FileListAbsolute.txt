@@ -1,0 +1,20 @@
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.exe.config
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.pdb
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.TCPCliente.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.Resources.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.vbproj.GenerateResource.Cache
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.exe.config
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Release\TCPCliente.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.TCPCliente.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.Resources.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Release\TCPCliente.vbproj.GenerateResource.Cache

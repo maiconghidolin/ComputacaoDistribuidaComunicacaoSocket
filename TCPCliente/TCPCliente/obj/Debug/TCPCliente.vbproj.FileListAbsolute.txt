@@ -1,0 +1,30 @@
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe.config
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\bin\Debug\TCPCliente.pdb
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\bin\Debug\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.TCPCliente.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.Resources.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbproj.GenerateResource.Cache
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\8º Semestre\Comp Gráfica\TCPCliente\TCPCliente\obj\Debug\TCPCliente.pdb
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe.config
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.pdb
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.TCPCliente.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.Resources.resources
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbproj.GenerateResource.Cache
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.exe
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.xml
+C:\Users\Maicon Ghidolin\Dropbox\Ciencias da computação\9º Semestre\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe.config
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.pdb
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin\Debug\TCPCliente.xml
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.TCPCliente.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.Resources.resources
+C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbproj.GenerateResource.Cache
