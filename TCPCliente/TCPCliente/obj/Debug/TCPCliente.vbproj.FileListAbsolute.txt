@@ -28,3 +28,14 @@ C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\bin
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.TCPCliente.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.Resources.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbproj.GenerateResource.Cache
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe.config
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.exe
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.xml
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.pdb
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\bin\Debug\TCPCliente.pdb
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\bin\Debug\TCPCliente.xml
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.TCPCliente.resources
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.Resources.resources
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbproj.GenerateResource.Cache
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPCliente\TCPCliente\obj\Debug\TCPCliente.vbprojResolveAssemblyReference.cache

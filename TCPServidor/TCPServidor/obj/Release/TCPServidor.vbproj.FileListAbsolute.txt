@@ -18,3 +18,7 @@ C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\b
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.TCPServidor.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.Resources.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Release\TCPServidor.vbproj.GenerateResource.Cache
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\bin\Release\TCPServidor.exe.config
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Release\TCPServidor.exe
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Release\TCPServidor.xml
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Release\TCPServidor.pdb

@@ -50,6 +50,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
@@ -70,10 +71,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TCPCliente.vb">
+    <Compile Include="Models\DTO.vb" />
+    <Compile Include="Views\TCPCliente.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TCPCliente.Designer.vb">
+    <Compile Include="Views\TCPCliente.Designer.vb">
       <DependentUpon>TCPCliente.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
@@ -94,7 +96,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="TCPCliente.resx">
+    <EmbeddedResource Include="Views\TCPCliente.resx">
       <DependentUpon>TCPCliente.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">

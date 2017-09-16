@@ -19,3 +19,14 @@ C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\b
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Debug\TCPServidor.TCPServidor.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Debug\TCPServidor.Resources.resources
 C:\Users\Maicon\Desktop\Redes\TrabalhoCamadaTransporte\TCPServidor\TCPServidor\obj\Debug\TCPServidor.vbproj.GenerateResource.Cache
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\bin\Debug\TCPServidor.exe.config
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.exe
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.xml
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.pdb
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\bin\Debug\TCPServidor.exe
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\bin\Debug\TCPServidor.pdb
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\bin\Debug\TCPServidor.xml
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.vbprojResolveAssemblyReference.cache
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.TCPServidor.resources
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.Resources.resources
+C:\Users\Maicon\Documents\Projetos\ComputacaoDistribuidaComunicacaoSocket\TCPServidor\TCPServidor\obj\Debug\TCPServidor.vbproj.GenerateResource.Cache
